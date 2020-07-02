@@ -1,12 +1,14 @@
-# 云开发 quickstart
+# Reddict Clone WeChatMP Tutorial
+[Video Tutorial by Will Kwan](https://www.youtube.com/watch?v=cOm9XKga7l0)
 
-这是云开发的快速启动指引，其中演示了如何上手使用云开发的三大基础能力：
+## Installation
 
-- 数据库：一个既可在小程序前端操作，也能在云函数中读写的 JSON 文档型数据库
-- 文件存储：在小程序前端直接上传/下载云端文件，在云开发控制台可视化管理
-- 云函数：在云端运行的代码，微信私有协议天然鉴权，开发者只需编写业务逻辑代码
-
-## 参考文档
-
-- [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
-
+1. Clone repository
+2. Download and install the Integrated Development Environment (IDE) for WeChat: [Select "Stable build" and choose Windows 64 or Mac](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html). If you are using Linux, [check this open source hack](https://github.com/cytle/wechat_web_devtools).
+3. Open WeChat's IDE to load project
+    - Scan the QR code with your personal WeChat. You should read "Scan succesfully". On your mobile, authorize the login. 
+5. Choose **"Mini Program"** from the left menu
+6. Choose **"Import Project"**  from the top tab bar
+7. In the "**Directory**" input, choose the folder holding this repository
+8. In the "**AppID**" input, if nothing appears, choose "Test Account"
+9. Press the green "**Import**" button on the bottom right
