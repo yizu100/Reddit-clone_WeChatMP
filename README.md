@@ -1,6 +1,11 @@
 # Reddict Clone WeChatMP Tutorial
 [Video Tutorial by Will Kwan](https://www.youtube.com/watch?v=cOm9XKga7l0)
 
+
+<p align="center">
+<img src="./Demo_1.jpg"  width="320" height="518"> 
+</p>
+
 ## Installation
 
 1. Clone repository
