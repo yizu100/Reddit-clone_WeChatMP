@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="./Demo_1.jpg"  width="320" height="518"> 
+<img src="./DemoImg.jpg" width="320" height="518"> 
 </p>
 
 ## Installation
